@@ -12,8 +12,3 @@
 ![#6eaaff](https://placehold.co/15x15/6eaaff/6eaaff.png)
 ![#c8e6ff](https://placehold.co/15x15/c8e6ff/c8e6ff.png)
 ![#e6f5ff](https://placehold.co/15x15/e6f5ff/e6f5ff.png)
-
-<!---
-jab-ioki/jab-ioki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
